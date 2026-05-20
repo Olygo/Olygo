@@ -23,3 +23,7 @@ I like solving real problems, documenting what works, and sharing knowledge that
 
 I care about trust, consistency, and long-term usefulness.
 The best tools are not the most complex ones, they are the ones people can rely on when it matters.
+
+## Contact
+
+[github@olygo.com](mailto:github@olygo.com)
